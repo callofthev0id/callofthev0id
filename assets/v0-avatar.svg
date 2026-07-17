@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="void" cx="50%" cy="118%" r="120%">
+      <stop offset="0%" stop-color="#12212f"/>
+      <stop offset="56%" stop-color="#0b0e14"/>
+      <stop offset="100%" stop-color="#05070b"/>
+    </radialGradient>
+    <!-- v minúscula (más chica) + 0 numeral (más alto) con cero-barra -->
+    <g id="v0" fill="none" stroke-width="34" stroke-linecap="round" stroke-linejoin="round">
+      <polyline points="150,246 196,350 242,246"/>
+      <ellipse cx="330" cy="258" rx="56" ry="92"/>
+      <line x1="372" y1="192" x2="288" y2="322" stroke-width="26"/>
+    </g>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#void)"/>
+  <g stroke="#ffffff" stroke-opacity="0.02" stroke-width="1">
+    <line x1="0" y1="150" x2="512" y2="150"/><line x1="0" y1="214" x2="512" y2="214"/>
+    <line x1="0" y1="278" x2="512" y2="278"/><line x1="0" y1="342" x2="512" y2="342"/>
+  </g>
+  <rect x="1" y="1" width="510" height="510" fill="none" stroke="#5a92c9" stroke-opacity="0.12"/>
+
+  <!-- glitch RGB split, más marcado -->
+  <use href="#v0" stroke="#d65a63" opacity="0.95" transform="translate(-11,5)"/>
+  <use href="#v0" stroke="#5a92c9" opacity="0.95" transform="translate(11,-5)"/>
+  <use href="#v0" stroke="#e6edf3"/>
+</svg>

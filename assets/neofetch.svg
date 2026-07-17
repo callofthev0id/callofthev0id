@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 318" width="800" height="318" font-family="ui-monospace,'JetBrains Mono','SF Mono','Cascadia Code',Consolas,monospace">
+<defs><radialGradient id="glow" cx="48%" cy="44%" r="60%"><stop offset="0%" stop-color="#a9d0f2"/><stop offset="45%" stop-color="#5a92c9"/><stop offset="100%" stop-color="#3a5170"/></radialGradient></defs>
+<rect x="1" y="1" width="798" height="316" rx="12" fill="#0b0e14" stroke="#1f2733"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 h774 a12 12 0 0 1 12 12 v22 h-798 z" fill="#11161f"/>
+<circle cx="24" cy="18" r="6" fill="#d65a63"/><circle cx="44" cy="18" r="6" fill="#d4a24c"/><circle cx="64" cy="18" r="6" fill="#5fae87"/>
+<text x="400.0" y="23" text-anchor="middle" font-size="13" fill="#7d8590">lautaro@v0id: ~</text>
+<text x="22" y="56" font-size="14"><tspan fill="#5fae87">lautaro@v0id</tspan><tspan fill="#7d8590">:</tspan><tspan fill="#5a92c9">~</tspan><tspan fill="#7d8590">$</tspan><tspan fill="#e6edf3"> neofetch</tspan></text>
+<text xml:space="preserve" font-size="11.5" fill="url(#glow)" letter-spacing="0.5">
+<tspan x="30" y="82">       ..:--===--:::...</tspan>
+<tspan x="30" dy="13.2">     .:-+*oo*+=-::....</tspan>
+<tspan x="30" dy="13.2">    .-+o##O*=:.........</tspan>
+<tspan x="30" dy="13.2">   .-*#%%O+-...:=+*oo*+=:.</tspan>
+<tspan x="30" dy="13.2">  .:+#@@#*:. .-=*oO#%@@%O+-.</tspan>
+<tspan x="30" dy="13.2">  .-*#@@O=.  .  --=+*O%@@%o=:.</tspan>
+<tspan x="30" dy="13.2">  .:+#%%o=.         .-+O%%#o=:</tspan>
+<tspan x="30" dy="13.2">.  .-*O#o+-        .  .=*O#o+-</tspan>
+<tspan x="30" dy="13.2">... .:=+*+=        -:...=*oo+-</tspan>
+<tspan x="30" dy="13.2">::::....:::..   :-++=-..:=*+=:</tspan>
+<tspan x="30" dy="13.2">::-=--:.......:=*oOO*-..:-==-:</tspan>
+<tspan x="30" dy="13.2">.:-=+********o#%@%#o=:..:---:.</tspan>
+<tspan x="30" dy="13.2">  .:-+*oO#%%@@@@%O*-.  .:::..</tspan>
+<tspan x="30" dy="13.2">    .:-=++*ooo*+=:.   .....</tspan>
+<tspan x="30" dy="13.2">        ........      ..</tspan>
+</text>
+<text x="250" y="86" font-size="14" font-weight="700"><tspan fill="#5fae87">lautaro</tspan><tspan fill="#7d8590">@</tspan><tspan fill="#d4a24c">v0id</tspan></text>
+<line x1="250" y1="94" x2="772" y2="94" stroke="#1f2733"/>
+<text y="118" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">OS</tspan><tspan x="358" fill="#e6edf3">Linux (Arch) · Windows Server</tspan></text>
+<text y="135.5" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">Host</tspan><tspan x="358" fill="#e6edf3">Infraestructura híbrida (on-prem + cloud)</tspan></text>
+<text y="153.0" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">Role</tspan><tspan x="358" fill="#e6edf3">IT &amp; Infrastructure Specialist · Semi-Senior</tspan></text>
+<text y="170.5" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">Uptime</tspan><tspan x="358" fill="#e6edf3">8+ años en IT</tspan></text>
+<text y="188.0" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">Shell</tspan><tspan x="358" fill="#e6edf3">PowerShell · Bash</tspan></text>
+<text y="205.5" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">WM</tspan><tspan x="358" fill="#e6edf3">Hyprland</tspan></text>
+<text y="223.0" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">Automation</tspan><tspan x="358" fill="#e6edf3">PowerShell · Python · n8n · Docker</tspan></text>
+<text y="240.5" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">Security</tspan><tspan x="358" fill="#e6edf3">Hardening · IR (L2) · Ethical Hacking (UTN)</tspan></text>
+<text y="258.0" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">Learning</tspan><tspan x="358" fill="#e6edf3">Agentic workflows · LLM orchestration</tspan></text>
+<text y="275.5" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">Location</tspan><tspan x="358" fill="#e6edf3">Buenos Aires, AR · remote-friendly</tspan></text>
+<text y="293.0" font-size="13"><tspan x="250" fill="#5a92c9" font-weight="700">Hobbies</tspan><tspan x="358" fill="#e6edf3">homelab · ricing · CTF · gaming</tspan></text>
+<rect x="250" y="314" width="26" height="14" rx="2" fill="#0b0e14"/>
+<rect x="282" y="314" width="26" height="14" rx="2" fill="#5a92c9"/>
+<rect x="314" y="314" width="26" height="14" rx="2" fill="#5fae87"/>
+<rect x="346" y="314" width="26" height="14" rx="2" fill="#d4a24c"/>
+<rect x="378" y="314" width="26" height="14" rx="2" fill="#d65a63"/>
+<rect x="410" y="314" width="26" height="14" rx="2" fill="#8b5cf6"/>
+<rect x="442" y="314" width="26" height="14" rx="2" fill="#e6edf3"/>
+<rect x="474" y="314" width="26" height="14" rx="2" fill="#7d8590"/>
+</svg>
